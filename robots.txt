@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https:/albertbouffange.github.io/sitemap.xml
+Sitemap: https://albertbouffange.github.io/sitemap.xml
